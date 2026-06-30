@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.CatEditAiProSixSevenSigmaEditor
+Exec=/usr/bin/ru.template.CatEditAiProSixSevenSigmaEditor
+Name=CatEdit Ai Pro Six Seven Sigma Editor
+Name[ru]=CatEdit AI
+
+[X-Application]
+Permissions=Pictures;UserDirs
+OrganizationName=ru.template
+ApplicationName=CatEditAiProSixSevenSigmaEditor
+ExecDBus=/usr/bin/ru.template.CatEditAiProSixSevenSigmaEditor
